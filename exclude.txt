@@ -1,0 +1,43 @@
+C:\$RECYCLE.BIN
+C:\Documents and Settings
+C:\DumpStack*
+C:\pagefile.sys
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData\Ableton
+C:\ProgramData\Corsair
+C:\ProgramData\Epic
+C:\ProgramData\GOG.com
+C:\ProgramData\kiloHearts
+C:\ProgramData\Malwarebytes
+C:\ProgramData\Max 8
+C:\ProgramData\Microsoft
+C:\ProgramData\NVIDIA*
+C:\ProgramData\Package*
+C:\ProgramData\Passmark
+C:\ProgramData\ProtonVPN
+C:\ProgramData\regid.1991-06.com.microsoft
+C:\ProgramData\Rockstar Games
+C:\ProgramData\SoftwareDistribution
+C:\ProgramData\Sophos
+C:\ProgramData\Spectrasonics
+C:\ProgramData\ssh
+C:\ProgramData\US*
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users\desktop.ini
+C:\Users\All Users
+C:\Users\Anon\.cache
+C:\Users\Anon\3D Objects
+C:\Users\Anon\AppData\Local*
+C:\Users\Anon\AppData\Roaming\Corsair
+C:\Users\Anon\ansel
+C:\Users\Anon\Music\iTunes
+C:\Users\Anon\ntuser*
+C:\Users\Anon\NTUSER
+C:\Users\Anon\Searches
+C:\Users\Default*
+C:\Users\Public
+C:\VST
+C:\Windows
