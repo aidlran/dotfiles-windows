@@ -1,3 +1,4 @@
+C:\DumpStack*
 C:\pagefile.sys
 C:\swapfile.sys
 C:\$RECYCLE.BIN
@@ -29,9 +30,13 @@ C:\Users\desktop.ini
 C:\Users\All Users
 C:\Users\Anon\.cache
 C:\Users\Anon\AppData\Local*
+C:\Users\Anon\AppData\Roaming\Corsair
+C:\Users\Anon\AppData\Roaming\discord
+C:\Users\Anon\AppData\Roaming\Dopamine
 C:\Users\Anon\3D Objects
 C:\Users\Anon\ansel
 C:\Users\Anon\Music\iTunes
+C:\Users\Anon\Searches
 C:\Users\Anon\NTUSER.DAT
 C:\Users\Default*
 C:\Users\Public
