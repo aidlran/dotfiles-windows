@@ -28,9 +28,9 @@ Don't mind this - just a note to self.
 - [X] [Disable telemetry 🤮](https://www.makeuseof.com/windows-10-11-disable-telemetry/)
 - [X] Install [7-Zip](https://www.7-zip.org)
 - [X] Install drivers
-    - [AMD Ryzen Master](https://download.amd.com/Desktop/AMD-Ryzen-Master.exe)
-    - [Nvidia GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/)
-    - Chipset ([Asus Prime X670](https://www.asus.com/uk/motherboards-components/motherboards/prime/prime-x670-p/helpdesk_download/?model2Name=PRIME-X670-P))
+  - [AMD Ryzen Master](https://download.amd.com/Desktop/AMD-Ryzen-Master.exe)
+  - [Nvidia GeForce Experience](https://www.nvidia.com/en-gb/geforce/geforce-experience/)
+  - Chipset ([Asus Prime X670](https://www.asus.com/uk/motherboards-components/motherboards/prime/prime-x670-p/helpdesk_download/?model2Name=PRIME-X670-P))
 - [X] Download updates
 - [X] Disable indexing on drives
 - [X] Configure Bitlocker & restart
